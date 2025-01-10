@@ -1,0 +1,56 @@
+
+Privacy Policy
+
+Effective Date: [Insert Date]
+
+Eren Ay built the Smart Screen Translate app as a free application. This SERVICE is provided by Eren Ay at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use this Service.
+
+If you choose to use this Service, you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using our Service, we may require you to provide certain personally identifiable information. The information that we collect includes:
+- Name
+- Email address
+- Google account information (for login purposes)
+- Financial computing history (for analysis)
+
+This data is used to personalize your experience, provide customer support, and analyze trends in usage. The information that we collect is stored securely and is not shared with third parties except for the purposes mentioned below.
+
+In-App Purchases
+Smart Screen Translate is free to download and use, but it includes in-app purchases that allow users to access additional features or remove ads. These purchases are processed through the Google Play Store, and we do not directly collect or store any payment information. Please review the Google Play Store's privacy policy for more details on how payment information is handled.
+
+Third-Party Services
+The app uses the following third-party services, which have their own privacy policies:
+- Google Play Services
+- AdMob
+- Firebase Analytics
+
+We recommend reviewing the privacy policies of these third-party services for more details on their data collection and usage practices.
+
+Permissions
+The app may request the following permissions to provide its features:
+- Camera: To scan and recognize text from the screen.
+- Storage Access: To save or upload images for text recognition and translation.
+
+These permissions are strictly used to enable the app’s functionalities and are not used to collect additional data.
+
+User Rights
+You have the right to:
+- Request deletion of your personal data.
+- Opt-out of personalized advertisements (through your device or AdMob settings).
+
+Security
+We value your trust in providing us your Personal Information and strive to use commercially acceptable means of protecting it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+Children’s Privacy
+This app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+Email: erenay494@gmail.com
