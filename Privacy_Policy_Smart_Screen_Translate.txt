@@ -30,6 +30,9 @@ The app uses the following third-party services, which have their own privacy po
 
 We recommend reviewing the privacy policies of these third-party services for more details on their data collection and usage practices.
 
+Data Processing and Temporary Storage:
+Our server temporarily stores images for processing purposes—specifically for text recognition and translation—for a maximum period of 1 day. Once processing is complete, the images are immediately removed from our system.
+
 Permissions
 The app may request the following permissions to provide its features:
 - Camera: To scan and recognize text from the screen.
