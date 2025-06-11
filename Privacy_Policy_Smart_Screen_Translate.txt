@@ -15,7 +15,6 @@ For a better experience, while using our Service, we may require you to provide 
 - Name
 - Email address
 - Google account information (for login purposes)
-- Financial computing history (for analysis)
 
 This data is used to personalize your experience, provide customer support, and analyze trends in usage. The information that we collect is stored securely and is not shared with third parties except for the purposes mentioned below.
 
